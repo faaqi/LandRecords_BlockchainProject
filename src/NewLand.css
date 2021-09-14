@@ -1,0 +1,26 @@
+main {
+  margin-top: 60px;
+}
+
+form {
+  width: 350px;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-bottom: 0px;
+}
+
+spacer {
+  margin: 10px;
+}
+
+.d-flex {
+  display: flex !important;
+  height: 100vh;
+}
+
+.center {
+  margin: 0 auto;
+  align-self: center;
+}
